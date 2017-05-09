@@ -1,0 +1,17 @@
+{
+    "context": "server",
+    "identifier": "com.pa.maldor",
+    "display_name": "What is Rolloff?",
+    "description": "The resurrection of an old mod, Now comes to Titans!",
+    "author": "Maldor96",
+    "version": ".1",
+    "build": "99377",
+    "date": "2017-05-08",
+    "signature": " ",
+    "category":
+    [
+        "units",
+        "classic",
+        "titans"
+    ],
+}
